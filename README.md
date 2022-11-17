@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 I'm Hyesoo (she/her/hers)
+
+A product-minded interdisciplinary designer working remotely from Irvine, California. I love collaboration, polemical game design and making helpful products that connect people. 
 
 <!--
 **hyezus/hyezus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
